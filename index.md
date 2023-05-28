@@ -21,3 +21,9 @@ for cheese in cheeses:
     else:
         print("This cheese is inferior.", cheese)
 ```
+
+- [x] Make cheese headers
+- [x] Import cheese image
+- [x] Insert cheese code snippet
+- [x] Make cheese based task list
+- [ ] Finish this tutorial
